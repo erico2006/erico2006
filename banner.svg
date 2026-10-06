@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#2A0610"/>
+      <stop offset="100%" stop-color="#B3203A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="16" fill="url(#g)"/>
+  <text x="600" y="115" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">SEU NOME</text>
+  <text x="600" y="160" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#E8C4CB">SEU CARGO</text>
+</svg>
