@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0D1117,2b0a1a,FF4D8D&text=SEU%20NOME&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=SEU%20CARGO&descSize=20&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0D1117,2b0a1a,FF4D8D&text=Érico%20Ricardo%20Marqueti%20Filho&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Estagiário&descSize=20&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF4D8D&center=true&vCenter=true&width=640&lines=SEU+CARGO;FRASE+CURTA+SOBRE+VOC%C3%8A;OUTRA+FRASE+SUA" alt="Typing animation" />
+<a href="https://github.com/erico2006">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF4D8D&center=true&vCenter=true&width=640&lines=Estagiário;CCNA+|+Scrum+|+Cyber+Security;in+focus" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=FF4D8D&label=VISITAS" alt="Visitas" />
+<img src="https://komarev.com/ghpvc/?username=erico2006&style=flat-square&color=FF4D8D&label=VISITAS" alt="Visitas" />
 
 </div>
 
