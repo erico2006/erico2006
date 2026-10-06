@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=erico2006&style=flat-square&color=FF4D8D&label=VISITAS" alt="Visitas" />
+<img src="https://komarev.com/ghpvc/?username=erico2006&style=flat-square&color=B3203A&label=VISITAS" alt="Visitas" />
 
 </div>
 
@@ -48,17 +48,17 @@
 <div align="center">
 
 <a href="https://github.com/erico2006/NOME_DO_REPO_1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_1&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_1&bg_color=0D1117&title_color=B3203A&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 1" />
 </a>
 <a href="https://github.com/erico2006/NOME_DO_REPO_2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_2&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_2&bg_color=0D1117&title_color=B3203A&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 2" />
 </a>
 
 <a href="https://github.com/erico2006/NOME_DO_REPO_3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_3&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 3" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_3&bg_color=0D1117&title_color=B3203A&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 3" />
 </a>
 <a href="https://github.com/erico2006/NOME_DO_REPO_4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_4&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_4&bg_color=0D1117&title_color=B3203A&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 4" />
 </a>
 
 </div>
@@ -69,12 +69,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=erico2006&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erico2006&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=erico2006&show_icons=true&hide_border=false&bg_color=0D1117&title_color=B3203A&text_color=C9D1D9&icon_color=B3203A&border_color=30363D&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erico2006&layout=compact&langs_count=8&bg_color=0D1117&title_color=B3203A&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=erico2006&background=0D1117&ring=FF4D8D&fire=FF4D8D&currStreakLabel=FF4D8D&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border=30363D" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=erico2006&background=0D1117&ring=B3203A&fire=B3203A&currStreakLabel=B3203A&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border=30363D" alt="Streak" />
 
 </div>
 
@@ -121,13 +121,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/%C3%A9rico-ricardo-marqueti-filho/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF4D8D&labelColor=0D1117&color=30363D" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=B3203A&labelColor=0D1117&color=30363D" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/eribadass/">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF4D8D&labelColor=0D1117&color=30363D" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=B3203A&labelColor=0D1117&color=30363D" alt="Instagram" />
 </a>
 <a href="https://github.com/erico2006/erico2006">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF4D8D&labelColor=0D1117&color=30363D" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=B3203A&labelColor=0D1117&color=30363D" alt="GitHub" />
 </a>
 
 </div>
