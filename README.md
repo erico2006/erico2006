@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0D1117,2b0a1a,FF4D8D&text=Érico%20Ricardo%20Marqueti%20Filho&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Estagiário&descSize=20&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
 
 <a href="https://github.com/erico2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF4D8D&center=true&vCenter=true&width=640&lines=Student;CCNA+|+Scrum+|+Cyber+Security;in+focus" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=B3203A&center=true&vCenter=true&width=640&lines=Student;CCNA+|+Scrum+|+Cyber+Security;in+focus" alt="Typing animation" />
 </a>
 
 <br/>
