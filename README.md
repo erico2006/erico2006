@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0D1117,2b0a1a,FF4D8D&text=Érico%20Ricardo%20Marqueti%20Filho&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Estagiário&descSize=20&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
 
 <a href="https://github.com/erico2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF4D8D&center=true&vCenter=true&width=640&lines=Estagiário;CCNA+|+Scrum+|+Cyber+Security;in+focus" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF4D8D&center=true&vCenter=true&width=640&lines=Student;CCNA+|+Scrum+|+Cyber+Security;in+focus" alt="Typing animation" />
 </a>
 
 <br/>
@@ -47,18 +47,18 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_1&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 1" />
+<a href="https://github.com/erico2006/NOME_DO_REPO_1">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_1&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 1" />
 </a>
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_2&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 2" />
+<a href="https://github.com/erico2006/NOME_DO_REPO_2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_2&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 2" />
 </a>
 
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_3&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 3" />
+<a href="https://github.com/erico2006/NOME_DO_REPO_3">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_3&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 3" />
 </a>
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_4&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 4" />
+<a href="https://github.com/erico2006/NOME_DO_REPO_4">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=erico2006&repo=NOME_DO_REPO_4&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D" alt="Projeto 4" />
 </a>
 
 </div>
@@ -69,12 +69,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=erico2006&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&icon_color=FF4D8D&border_color=30363D&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erico2006&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF4D8D&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0D1117&ring=FF4D8D&fire=FF4D8D&currStreakLabel=FF4D8D&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border=30363D" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=erico2006&background=0D1117&ring=FF4D8D&fire=FF4D8D&currStreakLabel=FF4D8D&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border=30363D" alt="Streak" />
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C9D1D9&line=FF4D8D&point=FFFFFF&area=true&area_color=FF4D8D&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erico2006&bg_color=0D1117&color=C9D1D9&line=FF4D8D&point=FFFFFF&area=true&area_color=FF4D8D&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=erico2006&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -107,9 +107,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erico2006/erico2006/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erico2006/erico2006/output/github-snake.svg" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/erico2006/erico2006/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
